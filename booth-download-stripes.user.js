@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOOTH Download Row Stripes
 // @namespace    https://github.com/YOUR_GITHUB_USERNAME/booth-userscripts
-// @version      1.1.1
+// @version      1.1.2
 // @description  Alternates background colours of download rows on BOOTH and marks rows you've downloaded
 // @author       Seanb0112
 // @license      MIT
@@ -25,7 +25,7 @@
   const DONE_A     = '#eaf7ee';  // downloaded row (odd)
   const DONE_B     = '#dcf1e3';  // downloaded row (even)
   const BADGE_TEXT = 'Downloaded';
-  const RESET_PER_ITEM = true;   // restart the stripe pattern for each product card
+  const RESET_PER_ITEM = false;   // restart the stripe pattern for each product card
   const REMEMBER   = true;       // keep "Downloaded" marks after reloading the page
   // -------------------------------------------------------------------------
 
