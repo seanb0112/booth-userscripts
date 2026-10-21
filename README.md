@@ -1,6 +1,7 @@
 # BOOTH Download Row Stripes
 
 A Tampermonkey userscript for [BOOTH](https://booth.pm) that makes download pages easier to read and keeps track of what you've already downloaded.
+<img width="1917" height="1192" alt="image" src="https://github.com/user-attachments/assets/9cc34482-65e8-43b8-86ad-b7963dbfd599" />
 
 ## Features
 
