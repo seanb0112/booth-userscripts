@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         BOOTH Download Row Stripes
-// @namespace    https://github.com/YOUR_GITHUB_USERNAME/booth-userscripts
+// @namespace    https://github.com/Seanb0112/booth-userscripts
 // @version      1.1.2
 // @description  Alternates background colours of download rows on BOOTH and marks rows you've downloaded
 // @author       Seanb0112
 // @license      MIT
-// @homepageURL  https://github.com/YOUR_GITHUB_USERNAME/booth-userscripts
-// @supportURL   https://github.com/YOUR_GITHUB_USERNAME/booth-userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/booth-userscripts/main/booth-download-stripes.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/booth-userscripts/main/booth-download-stripes.user.js
+// @homepageURL  https://github.com/Seanb0112/booth-userscripts
+// @supportURL   https://github.com/Seanb0112/booth-userscripts/issues
+// @updateURL    https://raw.githubusercontent.com/Seanb0112/booth-userscripts/main/booth-download-stripes.user.js
+// @downloadURL  https://raw.githubusercontent.com/Seanb0112/booth-userscripts/main/booth-download-stripes.user.js
 // @match        https://accounts.booth.pm/*
 // @match        https://booth.pm/*
 // @grant        none
