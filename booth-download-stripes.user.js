@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BOOTH Download Row Stripes
 // @namespace    https://github.com/Seanb0112/booth-userscripts
-// @version      1.1.2
+// @version      1.1.3
 // @description  Alternates background colours of download rows on BOOTH and marks rows you've downloaded
 // @author       Seanb0112
 // @license      MIT
